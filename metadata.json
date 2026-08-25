@@ -1,0 +1,8 @@
+{
+  "name": "Gilbert BEM Performance Diagnostics_Public",
+  "description": "Public-facing lead generation performance diagnostic powered by Gilbert's Behavior Engineering Model to diagnose environmental vs skill gaps and book diagnostic consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
